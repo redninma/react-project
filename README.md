@@ -1,22 +1,31 @@
 ## This is currently for me to play around with react.
 
-Installation
+## Installation
 Clone the repository 
-
+```
 % yarn install
-
-Development
-From the root of the repository:
+```
+## Development
+```
 % yarn dev
+```
 
-Unit Tests
+## Unit Tests
+```
 % yarn test
+```
 
-ESLint
+## ESLint
+```
 % yarn lint
+```
 
-Flow
+## Flow
+```
 % yarn flow
+```
 
-Building the React App for Production
+## Building the React App for Production
+```
 % yarn build
+```
